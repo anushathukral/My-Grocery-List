@@ -1,0 +1,1 @@
+**NOTE:** if your project makes use of libraries other than jUnit, you just add the corresponding `jar` files to this directory, otherwise your code will not compile on AutoTest.[json-20210307.jar](..%2F..%2F..%2F..%2FDownloads%2Fjson-20210307.jar)[json-20210307.jar](..%2F..%2F..%2F..%2FDownloads%2Fjson-20210307.jar)

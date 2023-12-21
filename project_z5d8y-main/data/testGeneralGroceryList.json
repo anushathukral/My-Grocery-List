@@ -1,0 +1,13 @@
+{
+    "price": 0,
+    "grocery list: ": [
+        {
+            "price": 200,
+            "name": "carrots"
+        },
+        {
+            "price": 350,
+            "name": "peppers"
+        }
+    ]
+}
